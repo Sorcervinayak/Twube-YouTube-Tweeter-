@@ -5,11 +5,11 @@ Twube is a YouTube-focused backend with some Twitter features. It allows you to 
 Features
 
 YouTube Functionality:
-->Fetch videos and playlists
-->Search for videos by query
-->Retrieve video details and statistics
+Fetch videos and playlists,
+Search for videos by query,
+Retrieve video details and statistics
 
 Twitter Functionality:
-->Post tweets programmatically
-->Fetch user tweets and profiles
-->Basic Twitter interactions and actions
+Post tweets programmatically,
+Fetch user tweets and profiles,
+Basic Twitter interactions and actions
